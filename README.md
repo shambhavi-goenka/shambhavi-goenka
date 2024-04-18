@@ -127,9 +127,9 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/shambhavi-goenka/shambhavi-goenka/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/shambhavi-goenka/shambhavi-goenka/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
