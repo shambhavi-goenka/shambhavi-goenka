@@ -113,10 +113,13 @@
 <div align="left">
   <a href="https://linkedin.com/in/shambhavi-goenka" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  /></a>
   <br>
-  <a href="mailto:shambhavig.2019@scis.smu.edu.sg" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  /></a>
+  <a href="mailto:shambhavig.2019@scis.smu.edu.sg" target="_blank"><img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="mail logo"  /></a>
   <br>
   <a href="https://medium.com/@SoapBubbles001" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  /></a>
-    
+  <br>
+  <a href="https://leetcode.com/soapBubbles/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=EBA43F&logoColor=white&labelColor=&style=flat" height="25" alt="leetcode logo"  /></a>
+
+
 </div>
 <br><br>
 
