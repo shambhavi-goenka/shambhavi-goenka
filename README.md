@@ -133,9 +133,9 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-goenka&layout=donut&hide=html,css" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-goenka&layout=donut&hide=html,css" height="170" />
 </div>
   
 <br><br> 
