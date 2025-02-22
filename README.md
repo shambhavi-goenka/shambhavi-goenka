@@ -110,7 +110,8 @@
 
 <h3 align="left"><img src="https://t4.ftcdn.net/jpg/05/31/27/67/360_F_531276723_WVWlANKtDQmwSxwW5P2Yn4hngudDeCSg.jpg" width="40"> Reach out :</h3>
 
-![](https://komarev.com/ghpvc/?username=shambhavo-goenka&color=green&base=356)
+<img src="https://komarev.com/ghpvc/?username=shambhavo-goenka&color=green&base=356" height="25" />
+
 
 <div align="left">
   <a href="https://linkedin.com/in/shambhavi-goenka" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  /></a>
