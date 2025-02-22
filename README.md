@@ -133,7 +133,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="1" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-goenka&layout=donut&hide=html,css" height="185" />
 </div>
