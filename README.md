@@ -108,16 +108,20 @@
 ###
 ###
 
-<h3 align="left">📬 Customer Support :</h3>
+<h3 align="left"><img src="https://t4.ftcdn.net/jpg/05/31/27/67/360_F_531276723_WVWlANKtDQmwSxwW5P2Yn4hngudDeCSg.jpg" width="40"> Reach out :</h3>
+
+![](https://komarev.com/ghpvc/?username=shambhavo-goenka&color=green)
 
 <div align="left">
   <a href="https://linkedin.com/in/shambhavi-goenka" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  /></a>
-  <br>
+<!--   <br> -->
+  &nbsp;
   <a href="mailto:shambhavig.2019@scis.smu.edu.sg" target="_blank"><img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="mail logo"  /></a>
-  <br>
+
+  <!--   <br>
   <a href="https://medium.com/@SoapBubbles001" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  /></a>
   <br>
-  <a href="https://leetcode.com/soapBubbles/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=EBA43F&logoColor=white&labelColor=&style=flat" height="25" alt="leetcode logo"  /></a>
+  <a href="https://leetcode.com/soapBubbles/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=EBA43F&logoColor=white&labelColor=&style=flat" height="25" alt="leetcode logo"  /></a> -->
 
 
 </div>
