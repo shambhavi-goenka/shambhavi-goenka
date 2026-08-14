@@ -126,7 +126,7 @@
 
 
 </div>
-<br><br>
+<!-- <br><br> -->
 
 <!-- <h3 align="left">🔥 My Stats :</h3> -->
 
@@ -138,7 +138,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-goenka&layout=donut&hide=html,css" height="185" />
 </div> -->
   
-<br><br> 
+<!-- <br><br>  -->
 
 
 <!-- ![Snake animation](https://github.com/shambhavi-goenka/shambhavi-goenka/blob/output/github-contribution-grid-snake.svg) -->
