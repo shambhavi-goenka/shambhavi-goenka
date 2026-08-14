@@ -110,7 +110,7 @@
 
 <h3 align="left"><img src="https://t4.ftcdn.net/jpg/05/31/27/67/360_F_531276723_WVWlANKtDQmwSxwW5P2Yn4hngudDeCSg.jpg" width="40"> Reach out :</h3>
 
-<img src="https://komarev.com/ghpvc/?username=shambhavo-goenka&color=green&base=356" height="25" />
+<!-- <img src="https://komarev.com/ghpvc/?username=shambhavo-goenka&color=green&base=356" height="25" /> -->
 
 
 <div align="left">
@@ -128,15 +128,15 @@
 </div>
 <br><br>
 
-<h3 align="left">🔥 My Stats :</h3>
+<!-- <h3 align="left">🔥 My Stats :</h3> -->
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://streak-stats.demolab.com?user=shambhavi-goenka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-goenka&layout=donut&hide=html,css" height="185" />
-</div>
+</div> -->
   
 <br><br> 
 
